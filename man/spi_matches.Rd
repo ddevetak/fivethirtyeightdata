@@ -41,7 +41,7 @@ spi_matches
 \description{
 The raw data behind the stories "Club Soccer Predictions"
 \url{https://projects.fivethirtyeight.com/soccer-predictions/} and "Global Club Soccer Rankings"
-\url{https://projects.fivethirtyeight.com/global-club-soccer-rankings/}.
+\url{https://projects.fivethirtyeight.com/global-club-soccer-rankings/} (now redirects to ABC News; active replacement: \url{https://www.football-charts.com/data}).
 }
 \seealso{
 \code{\link[fivethirtyeight]{spi_global_rankings}}
